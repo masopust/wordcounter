@@ -1,2 +1,2 @@
 # wordcounter
-Laboratorz project no.1
+Laboratory project no.1
